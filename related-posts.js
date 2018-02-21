@@ -51,5 +51,4 @@ $(function () {
 		.length > 270 && $(t)
 		.text(t.text()
 			.substring(0, 240) + " ..."), $(window)
-		.one("scroll", e)
 });
