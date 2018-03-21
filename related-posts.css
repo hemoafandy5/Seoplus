@@ -1,5 +1,0 @@
-.relate-p {float: right;width: calc((100% - 60px) / 3);margin: 10px;background: #fff;border: 1px solid #cfcfcf;border-radius: 5px;}
-a.relate-Thumb img {width: 100%;height: 185px;border-radius: 5px 5px 0 0;}
-h3.related-title {color: #000;height: 65px;overflow: hidden;padding: 0 10px;text-align: center;border-top: 1px solid #c1c1c1;margin: 0 10px;}
-@media screen and (max-width:900px){.relate-p {width: calc((100% - 40px) / 2);}}
-@media screen and (max-width:600px){.relate-p {width: calc((100% - 20px) / 1);}}
